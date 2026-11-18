@@ -6,7 +6,6 @@ Trabajo Práctico de Algoritmos — UNAHUR (grupo 6)
 
 - Lera Centurión Brenda
 - Arias Lavia Luana
-- Bravo Álvaro
 
 Sistema en C++ (orientado a objetos, memoria dinámica) que gestiona estaciones de bicicletas públicas de Buenos Aires, sus bicicletas, los viajes de los usuarios y la redistribución de bicicletas. Todas las estructuras (tabla hash, cola, heap, árbol, grafo) están implementadas a mano: no se usan `vector`, `map`, `unordered_map`, `queue`, `priority_queue` ni `set`. Se usa `std::string` y la STL solo para leer archivos y tareas auxiliares.
 
